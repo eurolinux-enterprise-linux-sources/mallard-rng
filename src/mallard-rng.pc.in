@@ -1,0 +1,7 @@
+prefix=@prefix@
+datarootdir=@datarootdir@
+datadir=@datadir@
+
+Name: mallard-rng
+Description: Mallard RELAX NG Schemas
+Version: @VERSION@
